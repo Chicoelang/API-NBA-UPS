@@ -1,4 +1,4 @@
-import { StandingsModel } from "../models/standingsModel.js";
+import { StandingsModel } from "../models/standingModel.js";
 
 export const StandingsController = {
   async getAll(req, res) {
